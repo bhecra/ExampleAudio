@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 9c701e8bea31994458deeefe39c16e2d
+timeCreated: 1530843093
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AirbrakeBox003
+    100002: CanopyBack003
+    100004: CanopyFront003
+    100006: Cockpit003
+    100008: ConeBoxL003
+    100010: ConeBoxR003
+    100012: DoorsNoseFront003
+    100014: FrontBox003
+    100016: Fuselage003
+    100018: HubBack003
+    100020: HubFront003
+    100022: Intake003
+    100024: Kfir003
+    100026: //RootNode
+    100028: Lights003
+    100030: Object014
+    100032: PanelBack003
+    100034: PanelFront003
+    100036: SeatBack003
+    100038: SeatFront003
+    100040: SidePanelsBack003
+    100042: SidePanelsFront003
+    400000: AirbrakeBox003
+    400002: CanopyBack003
+    400004: CanopyFront003
+    400006: Cockpit003
+    400008: ConeBoxL003
+    400010: ConeBoxR003
+    400012: DoorsNoseFront003
+    400014: FrontBox003
+    400016: Fuselage003
+    400018: HubBack003
+    400020: HubFront003
+    400022: Intake003
+    400024: Kfir003
+    400026: //RootNode
+    400028: Lights003
+    400030: Object014
+    400032: PanelBack003
+    400034: PanelFront003
+    400036: SeatBack003
+    400038: SeatFront003
+    400040: SidePanelsBack003
+    400042: SidePanelsFront003
+    2100000: Paint
+    2100002: Glass
+    2100004: 'Material #4'
+    2300000: AirbrakeBox003
+    2300002: CanopyBack003
+    2300004: CanopyFront003
+    2300006: Cockpit003
+    2300008: ConeBoxL003
+    2300010: ConeBoxR003
+    2300012: DoorsNoseFront003
+    2300014: FrontBox003
+    2300016: Fuselage003
+    2300018: HubBack003
+    2300020: HubFront003
+    2300022: Intake003
+    2300024: Lights003
+    2300026: Object014
+    2300028: PanelBack003
+    2300030: PanelFront003
+    2300032: SeatBack003
+    2300034: SeatFront003
+    2300036: SidePanelsBack003
+    2300038: SidePanelsFront003
+    3300000: AirbrakeBox003
+    3300002: CanopyBack003
+    3300004: CanopyFront003
+    3300006: Cockpit003
+    3300008: ConeBoxL003
+    3300010: ConeBoxR003
+    3300012: DoorsNoseFront003
+    3300014: FrontBox003
+    3300016: Fuselage003
+    3300018: HubBack003
+    3300020: HubFront003
+    3300022: Intake003
+    3300024: Lights003
+    3300026: Object014
+    3300028: PanelBack003
+    3300030: PanelFront003
+    3300032: SeatBack003
+    3300034: SeatFront003
+    3300036: SidePanelsBack003
+    3300038: SidePanelsFront003
+    4300000: AirbrakeBox003
+    4300002: CanopyBack003
+    4300004: CanopyFront003
+    4300006: Cockpit003
+    4300008: ConeBoxL003
+    4300010: ConeBoxR003
+    4300012: DoorsNoseFront003
+    4300014: FrontBox003
+    4300016: Fuselage003
+    4300018: HubBack003
+    4300020: HubFront003
+    4300022: Intake003
+    4300024: Lights003
+    4300026: PanelBack003
+    4300028: PanelFront003
+    4300030: SeatBack003
+    4300032: SeatFront003
+    4300034: SidePanelsBack003
+    4300036: SidePanelsFront003
+    4300038: Object014
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
