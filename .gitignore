@@ -8,6 +8,8 @@
 sysinfo.txt
 *.stackdump
 Library
+*.pidb.meta
+*.pdb.meta
  
 # ============================================= #
 # Visual Studio / MonoDevelop / Rider generated #
@@ -34,3 +36,7 @@ Library
 ehthumbs.db
 [Tt]humbs.db
 [Dd]esktop.ini
+
+# Builds
+*.apk
+*.unitypackage
